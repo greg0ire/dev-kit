@@ -120,7 +120,7 @@ The description is optional but strongly recommended. It could be asked by the
 team if needed. PR will often lead to complicated, hard-to-read conversations
 with many links to other web pages.
 
-he commit description should be able to live without what is said in the PR,
+The commit description should be able to live without what is said in the PR,
 and should ideally sum it up in a crystal clear way, so that people do not have
 to open a web browser to understand what you did.
 Links to PRs/Issues and external references are of course welcome, but should
