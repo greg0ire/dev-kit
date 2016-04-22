@@ -41,10 +41,12 @@ merge one while discussing the other.
 The goal is to have a clear commit history and make possible revert easier.
 
 If you found an issue/typo while writing your change that is not related to
-your work, please do another PR for that. In some rare cases, you might be
-forced to do it on the same PR. In this kind of situation, please add a comment
-on your PR explaining why you feel it is the case.
+your work, please do another PR for that.
 
+If however, you fall in an edge case where you can't easily do that (if the
+typo/issue is on a line you want to change), you will probably need to do
+something more complicated. In that case, please refer to the
+[Composing a PR](./composing-a-pr.md) document.
 
 #### The base branch
 
