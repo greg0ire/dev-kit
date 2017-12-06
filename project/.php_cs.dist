@@ -33,7 +33,6 @@ $rules = [
     'ordered_class_elements' => true,
     'ordered_imports' => true,
     'phpdoc_order' => true,
-    'ternary_to_null_coalescing' => true,
     // To be tested before insertion:
 //    'strict_comparison' => true,
 //    'strict_param' => true,
